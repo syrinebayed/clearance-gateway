@@ -1,0 +1,3 @@
+mcp>=2.3
+biomcp-cli>=0.9
+pytest>=8
